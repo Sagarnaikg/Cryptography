@@ -27,6 +27,7 @@ def display(message):
     print("Your decrpted message = ")
     print(message)
 
+#this is a main function
 def main():
     result =" "
     result=input("Enter the code data = ")
