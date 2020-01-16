@@ -22,7 +22,7 @@ def encrpto(sentence,key):
     display(sentence,key)
 
 
-
+#display function
 def display(code,key):
     print("The cipher text = ")
     print(code)
