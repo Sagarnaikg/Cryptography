@@ -31,7 +31,7 @@ def display(code,key):
 
     
 
-
+#main func
 def main():
     #user will enter the text data
     sentence=""
