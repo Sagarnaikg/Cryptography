@@ -1,5 +1,6 @@
-#This is the encoder which convert the given code into hash code
-
+'''
+    This the programme which usees a concept of cryptography to secure a communication between two object in the presence of third party.
+'''
 def encrpto(sentence,key):
 
     reverseMessage=""
