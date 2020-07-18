@@ -9,23 +9,26 @@ Program that encrypts and decrpts the text
 ## case1 :-
 ### Encrpter
 ```
- Enter the sentence that you wanted to encrypt = hello world <br />
- Enter a 1st prime number = 3<br />
- Enter a 2nd prime number = 5<br />
- The cipher text = <br />
- U]c`h`]]VY<br />
- The private key = <br />
+ Enter the sentence that you wanted to encrypt = hello world 
+ Enter a 1st prime number = 3
+ Enter a 2nd prime number = 5
+ The cipher text = 
+ U]c`h`]]VY
+ The private key = 
  15
 ```
 ### Decrypter
+```
  Enter the code data = U]c`h`]]VY\
  Enter the private key = 15\
  Your decrpted message =\
  helloworld
-
+```
 ## case2 :- when we enter wrong key
 ### Decrypter
+```
  Enter the code data =  U]c`h`]]VY\
  Enter the private key = 14\
  Your decrpted message =\
  gdkknvnqkc.
+```
