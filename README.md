@@ -8,7 +8,7 @@ Program that encrypts and decrpts the text
 # Output:-
 ## case1 :-
 ### Encrpter
-<code>
+```
  Enter the sentence that you wanted to encrypt = hello world <br />
  Enter a 1st prime number = 3<br />
  Enter a 2nd prime number = 5<br />
@@ -16,7 +16,7 @@ Program that encrypts and decrpts the text
  U]c`h`]]VY<br />
  The private key = <br />
  15
-</code>
+```
 ### Decrypter
  Enter the code data = U]c`h`]]VY\
  Enter the private key = 15\
