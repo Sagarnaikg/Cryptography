@@ -14,13 +14,13 @@ Program that encrypts and decrpts the text
  The cipher text = \
  U]c`h`]]VY\
  The private key = \
- 15\
+ 15
 
 ### Decrypter
  Enter the code data = U]c`h`]]VY\
  Enter the private key = 15\
  Your decrpted message =\
- helloworld\
+ helloworld
 
 ## case2 :- when we enter wrong key
 ### Decrypter
