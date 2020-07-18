@@ -9,12 +9,12 @@ Program that encrypts and decrpts the text
 ## case1 :-
 ### Encrpter
 <code>
- Enter the sentence that you wanted to encrypt = hello world \
- Enter a 1st prime number = 3\
- Enter a 2nd prime number = 5\
- The cipher text = \
- U]c`h`]]VY\
- The private key = \
+ Enter the sentence that you wanted to encrypt = hello world <br />
+ Enter a 1st prime number = 3<br />
+ Enter a 2nd prime number = 5<br />
+ The cipher text = <br />
+ U]c`h`]]VY<br />
+ The private key = <br />
  15
 </code>
 ### Decrypter
